@@ -1,0 +1,2 @@
+# FinancialCalculator
+Demo soft project
